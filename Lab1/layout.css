@@ -8,3 +8,11 @@ body {
     width: 100%;
     font-family: Arial, sans-serif;
 }
+
+header, nav, article, div, footer {
+    background-color: yellow;
+    border: gray solid;
+    text-align: center;
+    padding: 10px;
+}
+
