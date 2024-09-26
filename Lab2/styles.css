@@ -145,6 +145,7 @@ footer {
     background-color: #ffe066;
     padding: 10px;
     text-align: center;
+    clear: both; /*ให้อยู่ด้านล่าง*/
 }
 
 footer p {
